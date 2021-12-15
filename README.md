@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo  
+  
+https://elegant-babbage-9db494.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
